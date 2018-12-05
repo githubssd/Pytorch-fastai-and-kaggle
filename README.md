@@ -3,6 +3,6 @@
 
  And if you find any bug or want to ask sometthing, just ask me here or on [twitter](https://twitter.com/off_scripted)
  
- ### you can find the data for these competition on [Kaggle](https://kaggle.com)
+ #### You can find the data for these competitions on [kaggle](https://kaggle.com)
 
 Thanks!
