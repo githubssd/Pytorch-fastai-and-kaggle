@@ -9,4 +9,3 @@ This project requires **Python 3.7.0** and the following Python libraries instal
 
 Getting started with humpback-whale-identification challenge. 
 * The data for this competition can be found [here](https://www.kaggle.com/c/humpback-whale-identification)
-if you get any error or want to chat, use [twitter](https://twitter.com/off_scripted)
